@@ -1,0 +1,112 @@
+---
+title: false
+styles: true
+---
+
+
+$backgroundColour: #fffff0 !default;
+$headingColour: #2e261d !default;
+$bodyColour: #4b331b !default;
+$linkColour: #72a13c !default;
+
+$cormorant-settings: 'kern', 'onum', 'liga', 'dlig', 'ss10' 2;
+
+@font-face {
+    font-family: "Mirra Auriolic";
+    src: url("./fonts/mirra.woff");
+}
+
+@font-face {
+    font-family: "CG";
+    font-weight: light;
+    src: url("./fonts/CormorantGaramond-Light.woff2");
+}
+
+@font-face {
+    font-family: "CG";
+    font-weight: normal;
+    src: url("./fonts/CormorantGaramond-Regular.woff2");
+}
+
+@font-face {
+    font-family: "CG";
+    font-weight: medium;
+    src: url("./fonts/CormorantGaramond-Medium.woff2");
+}
+
+@font-face {
+    font-family: "CG";
+    font-weight: 600;
+    src: url("./fonts/CormorantGaramond-SemiBold.woff2");
+}
+
+@font-face {
+    font-family: "CG";
+    font-weight: bold;
+    src: url("./fonts/CormorantGaramond-Bold.woff2");
+}
+
+$bodytype: (
+  font-family: '"CG", Garamond, Georgia, serif',
+  regular: 500,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+) !default;
+
+$headingtype: (
+  font-family: '"CG", Garamond, Georgia, serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+) !default;
+
+@import "alembic";
+
+// FIXME: I hate this stupid Cartesian product
+
+.typeset p,
+.typeset p a,
+.typeset li,
+.typeset li a,
+.typeset ol li,
+.typeset ul li,
+.typeset h1,
+.typeset h3,
+.typeset h4,
+.typeset h5,
+.typeset h6 {
+    font-feature-settings: $cormorant-settings;
+}
+
+.feature,
+.feature h1,
+.feature h2,
+.feature h3,
+.feature h4,
+.feature h5,
+.feature h6 {
+    margin: 0;
+    padding: 0;
+    line-height: 2rem;
+    -webkit-text-stroke: 0.15rem white;
+    paint-order: stroke fill;
+    font-family: "Mirra Auriolic", Garamond, Georgia, Serif;
+    text-rendering: optimizeLegibility !important;
+    -webkit-font-smoothing: antialiased !important;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.005);
+}
+
+.feature .container {
+    min-height: 300px;
+    width: 100%;
+    max-width: 100%;
+    aspect-ratio: 3.5;
+}
+
+// Make us more important :-)
+#catriona,
+#pavel {
+    font-size: 3em;
+    line-height: 1em;
+}
