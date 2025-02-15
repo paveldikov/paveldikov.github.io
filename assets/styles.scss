@@ -61,6 +61,12 @@ $headingtype: (
   cap-height: 0.75
 ) !default;
 
+$monospacetype: (
+  font-family: 'Menlo, "Cascadia Code", monospace',
+  regular: 400,
+  cap-height: 0.68
+) !default;
+
 @import "alembic";
 
 // FIXME: I hate this stupid Cartesian product

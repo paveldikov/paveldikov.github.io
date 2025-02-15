@@ -26,10 +26,10 @@ Please let us know in your RSVP if you would like to use this.
 
 ### By taxi
 [Thistle Cabs Group](https://www.thistle-cabs.co.uk/) are local and recommended by the
-venue. Phone number is [01563 522222](tel:01563 522222).
+venue. Their Kilmarnock phone number is [01563 522222](tel:01563 522222).
 
 
-### Accommodation
+## Accommodation
 If you would like to stay near the venue, there are a few places in Kilmarnock which is
 15 minutes' drive away:
 * [Park Hotel](https://theparkhotelayrshire.co.uk/)

@@ -36,8 +36,12 @@ navigation_header:
   url: /timeline/
 - title: Travel & accommodation
   url: /travel/
+- title: Registry
+  url: /registry/
 - title: FAQ
   url: /faq/
+- title: RSVP
+  url: /rsvp/
 
 # Footer nav
 navigation_footer:

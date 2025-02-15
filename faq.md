@@ -3,7 +3,7 @@ title: Frequently asked questions
 feature_image: "/assets/images/couple-northern-lights.jpg"
 ---
 
-## When is the RSVP by?
+## When do I RSVP by?
 Please RSVP by **Monday 31st of March 2025** using the form on this website.
 
 If you are having any problems with the form, please get in touch with us.
