@@ -110,3 +110,26 @@ $headingtype: (
     font-size: 3em;
     line-height: 1em;
 }
+
+// Make the map behave
+#map {
+    border: 0;
+    margin-left: 10px;
+    float: right;
+    width: 400px;
+    height: 275px;
+}
+
+@media (max-width: 975px){
+    #map {
+        position: relative;
+        float: none;
+        width: 100%;
+        margin-left: 0px;
+    }
+}
+
+#map iframe {
+    width: 100%;
+    height: 100%;
+}

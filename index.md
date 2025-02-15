@@ -1,5 +1,5 @@
 ---
-title: Welcome to our wedding
+title: Welcome to our wedding website
 feature_image: "assets/images/couple-uofg.jpg"
 feature_text: |
   &nbsp;
@@ -7,13 +7,10 @@ feature_text: |
   ### &
   # Pavel
 ---
-There isn't much going on here yet, but watch this space.
+Our wedding is on **Saturday 21st June 2025** at **1.30pm** at **Rowallan Castle** in
+Kilmaurs, Scotland.
 
-Quantum science has something to do with these ligatures.
+Please RSVP by **Monday 31st of March 2025**.
 
-Ала бала ница, **де** гиди Ванчо. _'Ич не е добре, как става тайзи работа с шрифтовете,
-никой не зна._
-
-* трънки
-* глогинки
-* [трънки и глогинки](http://localhost/)
+We are looking forward to sharing our special day with you. You can find all the
+important details about our big day here on this website.

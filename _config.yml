@@ -32,8 +32,12 @@ logo: null
 navigation_header:
 - title: Home
   url: /
-- title: About
-  url: /about/
+- title: Timeline
+  url: /timeline/
+- title: Travel & accommodation
+  url: /travel/
+- title: FAQ
+  url: /faq/
 
 # Footer nav
 navigation_footer:

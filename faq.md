@@ -1,0 +1,21 @@
+---
+title: Frequently asked questions
+feature_image: "/assets/images/couple-northern-lights.jpg"
+---
+
+## When is the RSVP by?
+Please RSVP by **Monday 31st of March 2025** using the form on this website.
+
+If you are having any problems with the form, please get in touch with us.
+
+## What should I wear?
+The dress code for the event is **day formal**.
+
+National attire _(such as the kilt)_ is encouraged but by no means required.
+
+Note that, weather permitting, part of the day may be **outdoors**.
+
+## Can I take photos?
+We would love for you to take photos and share them.
+
+However, please refrain from taking photos during the ceremony.
