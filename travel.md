@@ -1,6 +1,6 @@
 ---
 title: Travel & accommodation
-feature_image: "/assets/images/couple-northern-lights.jpg"
+feature_image: "/assets/images/couple-budapest.jpg"
 ---
 
 ## Travel
@@ -10,7 +10,7 @@ feature_image: "/assets/images/couple-northern-lights.jpg"
 
 The location of the venue is:
 
-> Rowallan Castle, <br >
+> **Rowallan Castle** <br >
 > Kilmaurs, Scotland <br />
 > KA3 2LP
 

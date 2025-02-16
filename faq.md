@@ -1,6 +1,6 @@
 ---
 title: Frequently asked questions
-feature_image: "/assets/images/couple-northern-lights.jpg"
+feature_image: "/assets/images/couple-lisbon.jpg"
 ---
 
 ## When do I RSVP by?

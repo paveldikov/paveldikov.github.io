@@ -1,6 +1,6 @@
 ---
 title: Registry
-feature_image: "/assets/images/couple-northern-lights.jpg"
+feature_image: "/assets/images/couple-bales.jpg"
 ---
 The most important gift to us is having you share our special day; we really appreciate
 the effort you're making to join us.
