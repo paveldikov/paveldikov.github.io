@@ -17,6 +17,16 @@ $cormorant-settings: 'kern', 'onum', 'liga', 'dlig', 'ss10' 2;
 }
 
 @font-face {
+    font-family: "Alexandra Caligraphy";
+    src: url("./fonts/alexandra.woff");
+}
+
+@font-face {
+    font-family: "Allegretto";
+    src: url("./fonts/allegretto.woff");
+}
+
+@font-face {
     font-family: "CG";
     font-weight: light;
     src: url("./fonts/CormorantGaramond-Light.woff2");
@@ -97,7 +107,7 @@ $monospacetype: (
     line-height: 2rem;
     -webkit-text-stroke: 0.15rem white;
     paint-order: stroke fill;
-    font-family: "Mirra Auriolic", Garamond, Georgia, Serif;
+    font-family: "Alexandra Caligraphy", Allegretto, Garamond, Georgia, Serif;
     text-rendering: optimizeLegibility !important;
     -webkit-font-smoothing: antialiased !important;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.005);
@@ -111,10 +121,24 @@ $monospacetype: (
 }
 
 // Make us more important :-)
-#catriona,
+#catriona {
+    font-size: 5em;
+    line-height: 0.6em;
+}
+
 #pavel {
+    font-size: 5em;
+    line-height: 1.2em;
+}
+
+#catriona-bg {
     font-size: 3em;
-    line-height: 1em;
+    line-height: 1.3em;
+}
+
+#pavel-bg {
+    font-size: 3em;
+    line-height: 1.2em;
 }
 
 // Make the map behave
@@ -138,4 +162,11 @@ $monospacetype: (
 #map iframe {
     width: 100%;
     height: 100%;
+}
+
+// Fix weird alignment of hamburger menu
+.header .nav {
+    align-items: flex-start;
+    justify-content: flex-start;
+    text-align: left;
 }
