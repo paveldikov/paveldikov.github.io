@@ -1,4 +1,6 @@
 ---
+lang: en
+permalink: /registry
 title: Registry
 feature_image: "/assets/images/couple-bales.jpg"
 ---

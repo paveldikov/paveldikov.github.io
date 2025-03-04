@@ -1,4 +1,6 @@
 ---
+lang: en
+permalink: /travel
 title: Travel & accommodation
 feature_image: "/assets/images/couple-budapest.jpg"
 ---

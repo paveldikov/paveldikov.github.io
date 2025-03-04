@@ -1,4 +1,6 @@
 ---
+lang: en
+permalink: /timeline
 title: Timeline of the day
 feature_image: "/assets/images/couple-cruise.jpg"
 ---

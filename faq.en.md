@@ -1,4 +1,6 @@
 ---
+lang: en
+permalink: /faq
 title: Frequently asked questions
 feature_image: "/assets/images/couple-lisbon.jpg"
 ---

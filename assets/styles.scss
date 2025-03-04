@@ -131,12 +131,12 @@ $monospacetype: (
     line-height: 1.2em;
 }
 
-#catriona-bg {
+#катрина {
     font-size: 3em;
     line-height: 1.3em;
 }
 
-#pavel-bg {
+#павел {
     font-size: 3em;
     line-height: 1.2em;
 }
@@ -169,4 +169,14 @@ $monospacetype: (
     align-items: flex-start;
     justify-content: flex-start;
     text-align: left;
+}
+
+// lang selector
+.nav--langselector{
+    float: right;
+    list-style-type: none;
+    margin-top: auto;
+    margin-bottom: auto;
+    padding-right: 6px;
+    text-align: right;
 }

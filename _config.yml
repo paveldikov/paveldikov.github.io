@@ -19,9 +19,10 @@ plugins:
 - jekyll-include-cache
 - jemoji
 - jekyll-remote-theme
+- jekyll-polyglot
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://logandikov.wedding'
 baseurl: ''
 title: "Catriona & Pavel's wedding"
 description: "Catriona & Pavel's wedding"
@@ -29,18 +30,34 @@ permalink: pretty
 logo: null
 
 # Header nav
+nav_menu:
+  en: Menu
+  bg: Меню
+
 navigation_header:
-- title: Home
+- title:
+    en: Home
+    bg: Начало
   url: /
-- title: Timeline
+- title:
+    en: Timeline
+    bg: График
   url: /timeline/
-- title: Travel & accommodation
+- title:
+    en: Travel & accommodation
+    bg: Транспорт и настаняване
   url: /travel/
-- title: Registry
+- title:
+    en: Registry
+    bg: Списък
   url: /registry/
-- title: FAQ
+- title:
+    en: FAQ
+    bg: ЧЗВ
   url: /faq/
-- title: RSVP
+- title:
+    en: RSVP
+    bg: Отговор
   url: /rsvp/
 
 # Footer nav
@@ -62,3 +79,13 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+
+languages: ["en", "bg"]
+langsep: '<br />'
+language_names:
+  en: English
+  bg: Български
+default_lang: "en"
+exclude_from_localizations: ["assets"]
+parallel_localization: false   # to support windoze

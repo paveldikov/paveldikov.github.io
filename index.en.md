@@ -1,4 +1,6 @@
 ---
+lang: en
+permalink: /
 title: Welcome to our wedding website
 feature_image: "assets/images/couple-uofg.jpg"
 feature_text: |
