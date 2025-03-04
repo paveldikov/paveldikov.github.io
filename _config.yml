@@ -42,23 +42,23 @@ navigation_header:
 - title:
     en: Timeline
     bg: График
-  url: /timeline/
+  url: /timeline
 - title:
     en: Travel & accommodation
     bg: Транспорт и настаняване
-  url: /travel/
+  url: /travel
 - title:
     en: Registry
     bg: Списък
-  url: /registry/
+  url: /registry
 - title:
     en: FAQ
     bg: ЧЗВ
-  url: /faq/
+  url: /faq
 - title:
     en: RSVP
     bg: Отговор
-  url: /rsvp/
+  url: /rsvp
 
 # Footer nav
 navigation_footer:
