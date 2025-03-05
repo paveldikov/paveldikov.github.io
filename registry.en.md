@@ -23,6 +23,6 @@ their service are as follows:
    Copy to clipboard</a>
 5. Go to the **'Make a Contribution'** tab and fill out.
 
-The closing date is the **28th of June 2025**.
+The closing date is **Saturday, 28th of June 2025**.
 
 <script src="/assets/scripts/copyToClipboard.js"></script>

@@ -17,7 +17,7 @@ feature_image: "/assets/images/couple-budapest.jpg"
 > KA3 2LP
 
 ### С кола
-Замъка Rowallan е на около 30 минути с кола от центъра на Глазгоу.
+Замъкът Rowallan е на около 30 минути с кола от центъра на Глазгоу.
 
 На разположение на гостите има безплатен паркинг, намиращ се до голф клуба и ресторанта
 'Glasshouse'.
@@ -29,8 +29,8 @@ feature_image: "/assets/images/couple-budapest.jpg"
 възможност.
 
 ### С такси
-[Thistle Cabs Group](https://www.thistle-cabs.co.uk/) са местни в района на замъка.
-Телефонният им номер е [01563 522222](tel:01563 522222).
+[Thistle Cabs Group](https://www.thistle-cabs.co.uk/) са местни в района на гр.
+Килмарнък. Телефонният им номер е [01563 522222](tel:01563 522222).
 
 
 ## Настаняване
@@ -40,5 +40,5 @@ feature_image: "/assets/images/couple-budapest.jpg"
 * [Premier Inn](https://www.premierinn.com/gb/en/hotels/scotland/strathclyde/kilmarnock.html)
 * [Travelodge](https://www.travelodge.co.uk/hotels/212/Kilmarnock-hotel)
 
-Също така, Глазгоу, бидейки на половин час разстояние с кола, притежава богата селекция
-от хотели и апартаменти.
+Също така, Глазгоу, бидейки на половин час разстояние с кола, е голям град и притежава
+богата селекция от хотели и апартаменти.

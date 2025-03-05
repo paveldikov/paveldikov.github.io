@@ -181,3 +181,21 @@ $monospacetype: (
     padding-right: 6px;
     text-align: right;
 }
+
+#form {
+    border: none;
+    max-width:100%;
+    min-height: 1400px;
+}
+
+@media (max-width: 640px){
+    #form {
+        min-height:1600px;
+    }
+}
+
+@media (min-width: 640px) and (max-width: 975px){
+    #form {
+        min-height:1500px;
+    }
+}
