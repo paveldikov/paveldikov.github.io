@@ -17,9 +17,10 @@ Please arrive from 1pm and be seated by 1.15pm.
 Please see your invitation for details; the intended recipients will be listed.
 
 ## What should I wear?
-The dress code for the event is **day formal**.
-
-National attire _(such as the kilt)_ is encouraged but by no means required.
+The dress code for the event is **day formal**. For example:
+* lounge suit & tie
+* national formal attire _(e.g. the kilt)_
+* a dress
 
 Note that, weather permitting, part of the day may be **outdoors**.
 
