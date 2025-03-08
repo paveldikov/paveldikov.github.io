@@ -7,8 +7,8 @@ feature_image: "/assets/images/couple-bales.jpg"
 The most important gift to us is sharing our special day with you; we really appreciate
 the effort you're making to join us.
 
-Should you still wish to contribute, we would be delighted if you wanted to contribute
-to our honeymoon. We are planning to go to South America, with visits to Argentina
+Should you still wish to contribute, we would be delighted with any contribution towards
+our honeymoon. We are planning to go to South America, with visits to Argentina
 and Brazil including the Iguazu/Iguaçu falls.
 
 We have registered with 
@@ -23,6 +23,6 @@ their service are as follows:
    Copy to clipboard</a>
 5. Go to the **'Make a Contribution'** tab and fill out.
 
-The closing date is **Saturday, 28th of June 2025**.
+The closing date is **Saturday 28th June 2025**.
 
 <script src="/assets/scripts/copyToClipboard.js"></script>

@@ -6,7 +6,7 @@ feature_image: "/assets/images/couple-lisbon.jpg"
 ---
 
 ## When do I RSVP by?
-Please RSVP by **Monday 31st of March 2025** using the form on this website.
+Please RSVP by **Monday 7th April 2025** using the form on this website.
 
 If you are having any problems with the form, please get in touch with us.
 
