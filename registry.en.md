@@ -9,7 +9,7 @@ the effort you're making to join us.
 
 Should you still wish to contribute, we would be delighted with any contribution towards
 our honeymoon. We are planning to go to South America, with visits to Argentina
-and Brazil including the Iguazu/Iguaçu falls.
+and Brazil including the Iguazú/Iguaçu Falls.
 
 We have registered with 
 [Trailfinders' Honeymoon Wishlist](https://trailfinders.com/wishlist). The steps to use

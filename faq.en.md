@@ -18,7 +18,7 @@ Please see your invitation for details; the intended recipients will be listed.
 
 ## What should I wear?
 The dress code for the event is **day formal**. For example:
-* lounge suit & tie
+* lounge suit and tie
 * national formal attire _(e.g. the kilt)_
 * a dress
 

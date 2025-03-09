@@ -38,5 +38,5 @@ If you would like to stay near the venue, there are a few places in Kilmarnock w
 * [Premier Inn](https://www.premierinn.com/gb/en/hotels/scotland/strathclyde/kilmarnock.html)
 * [Travelodge](https://www.travelodge.co.uk/hotels/212/Kilmarnock-hotel)
 
-Of course, with Glasgow being a half hour away, you have lots of options to choose from
+Of course, with Glasgow being half an hour away, you have lots of options to choose from
 there.
