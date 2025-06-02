@@ -16,8 +16,9 @@ We have registered with
 their service are as follows:
 
 1. Go to the [wishlist website](https://trailfinders.com/wishlist).
-2. Scroll down to **'Make a Contribution to a Wishlist'**
-3. Input either of our surnames.
+2. Scroll down to **'Make a Contribution to a Wishlist'**. (it is towards the bottom of
+   the page; do not confuse this with 'View Your Wishlist')
+3. Input either of the bride's or the groom's surnames.
 4. Input the reference code: <span class="copiable">`5BMSY4`</span>
    <a class="button copy-code-button" style="padding-top: 0; padding-bottom: 0; margin: 0;">
    Copy to clipboard</a>
