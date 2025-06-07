@@ -37,7 +37,7 @@ Glasgow. The bus will be operated by Shuttle Coaches. Please be there for 12 mid
 the day of the event, as the bus will be departing at 12.15pm.
 
 There will also be a corresponding drop-off service, departing Rowallan Castle at
-00.30.
+00.30 and returning to George Square.
 
 Please let us know in advance if you would like to use this service but have not
 requested this on your RSVP form, as seating is limited.
